@@ -6,7 +6,7 @@ while(ulang === true) {
     var nama = prompt('Masukkan nama anda :');
     alert('Hallo ' + nama + ' terimakasih sudah berkunjung ke website kami');
 
-    ulang = confirm('Coba masukkan nama lagi? \n (klik cancel/tidak untuk tidak mengulangi) ');
+    ulang = confirm('Coba masukkan nama lagi? \n (klik cancel/tidak/batal untuk tidak mengulangi) ');
 }
 
 alert('Terimakasih....'); 
